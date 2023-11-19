@@ -6,3 +6,7 @@ Some text
 jkhdfjsdhjdhv
 
 efefdafdagdfa
+
+##L Local development
+
+1.Open index.html
